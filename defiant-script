@@ -1657,4 +1657,4 @@ wait(0.1)
 antiGrab1Toggle:Set(true)
 
 local Label = creditsTab:CreateLabel("Flash created this script!", 0, Color3.fromRGB(255, 255, 255), false)
-local Paragraph = creditsTab:CreateParagraph({Title = "Why I published this?", Content = "This is a incomplete old gui with a little part of what i have, still enough to ruin the game in the way i wanted after how things had been going im sorry to the few who actually make scripts to ruin it for you, while this gui alone isnt strong the source is and can be utilized much better and if you are using this you can keep skidding to your hearts contempt till the game is unplayable it was its time"})
+local Paragraph = creditsTab:CreateParagraph({Title = "Why I published this?", Content = "This is a incomplete old gui with a little part of what i have, still enough to ruin the game in the way i wanted after how things had been going im sorry to the few who actually make scripts to ruin it for you, while this gui alone isnt strong the source Is and can be utilized much better and if you are using this you can keep skidding to your hearts contempt till the game is unplayable It was its time lol."})
