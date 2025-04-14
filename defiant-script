@@ -1056,10 +1056,10 @@ end
 
 --GUI--
 local Window = Rayfield:CreateWindow({
-    Name = "Matter",
+    Name = "Scripture Gucci & Lags | Server and Keybinds Tab",
     Icon = 0,
     LoadingTitle = "Matter",
-    LoadingSubtitle = "By Flashh",
+    LoadingSubtitle = "Scripture Gucci Anti & Lags",
     Theme = "Default",
  
     DisableRayfieldPrompts = false,
