@@ -1,3 +1,7 @@
+local Players = game:GetService("Players")
+local player = Players.LocalPlayer
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Scripture Hub V1.25❯ Gucci Anti & Lags ❯ Made by Mini0n", "All")
 local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
 
 --VARIABLES--
